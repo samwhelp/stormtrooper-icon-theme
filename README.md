@@ -8,10 +8,14 @@ Stormtrooper Icon set is a mix of Papirus and Fluent icon theme which I have hea
 
 Screenshots
 --
-![cca478e68633d4b2452568011c3f1fe07dfce0b2](https://user-images.githubusercontent.com/60283532/219206753-c9057a26-eee7-4814-9806-7a2b04bc65ba.png)
+
+![459b43842f292a0f77c94c95191ffa42455c1d97](https://github.com/SethStormR/Stormtrooper/assets/60283532/a03ec9fb-dc81-4e61-a91d-459f32b6b356)
 
 
-![ef9e05a4040d2b7afdda80fd36d220399acadf6a](https://user-images.githubusercontent.com/60283532/219206773-d9610e40-b4a8-471a-b119-843efa531dcf.png)
+![b8c90823bedfde3a5716c6ee7b8e2c7d41d37157](https://github.com/SethStormR/Stormtrooper/assets/60283532/a13dc6bf-0939-4afd-91a0-90d7d8070c32)
+
+![cf714f20dbd27b6fd23cd05e5bf6af22ab6da718](https://github.com/SethStormR/Stormtrooper/assets/60283532/35af0a77-843f-429e-9c0f-c5871a6e88b8)
+
 
 Video
 --
