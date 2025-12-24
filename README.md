@@ -46,3 +46,12 @@ run
 ``` sh
 make help
 ```
+
+
+
+
+## Issue
+
+| Issue |
+| ----- |
+| [#1 - folder and file permissions](https://github.com/SethStormR/Stormtrooper/issues/1) |
