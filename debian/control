@@ -1,0 +1,19 @@
+Source: stormtrooper-icon-theme
+Section: universe/x11
+Priority: optional
+Maintainer: Develop Team <develop@home.heaven>
+Build-Depends:
+ debhelper (>= 10),
+ make
+Standards-Version: 4.7.2
+Homepage: https://samwhelp.github.io/stormtrooper-icon-theme/
+Vcs-Browser: https://github.com/samwhelp/stormtrooper-icon-theme
+Vcs-Git: https://github.com/samwhelp/stormtrooper-icon-theme.git
+
+Package: stormtrooper-icon-theme
+Architecture: all
+Depends:
+ ${misc:Depends}
+Description: Grey Icon Theme
+ StormTrooper Icon Theme is a Grey Icon Theme Pack.
+ Source from [Stormtrooper](https://github.com/SethStormR/Stormtrooper).
