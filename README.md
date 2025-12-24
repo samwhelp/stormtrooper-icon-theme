@@ -54,4 +54,4 @@ make help
 
 | Issue |
 | ----- |
-| [#7 - folder and file permissions](https://github.com/SethStormR/Stormtrooper/issues/1) |
+| [#1 - folder and file permissions](https://github.com/SethStormR/Stormtrooper/issues/1) |
