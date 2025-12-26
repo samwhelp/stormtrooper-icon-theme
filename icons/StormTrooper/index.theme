@@ -1,6 +1,8 @@
 [Icon Theme]
 Name=StormTrooper
-Inherits=Papirus,ZorinGrey-Dark,Adwaita,
+#Inherits=Papirus,ZorinGrey-Dark,Adwaita,
+Inherits=Papirus-Dark,breeze-dark,Cosmic,Adwaita,hicolor
+Comment=StormTrooper Icon Theme by Seth Storm Rosenaa
 
 Example=x-directory-normal
 
